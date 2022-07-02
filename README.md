@@ -10,11 +10,11 @@ This has several features like:
 ->Rotate<br>
 ->Draw<br>
 ->Effects :<br>
-*Black and White<br>
-*Sepia<br>
-*Solarize<br>
-*Invert<br>
-*Posterize<br>
+_Black and White<br>
+_Sepia<br>
+_Solarize<br>
+_Invert<br>
+_Posterize<br>
 	
  
 Libraries Used: 
