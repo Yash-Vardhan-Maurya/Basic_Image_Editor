@@ -1,20 +1,20 @@
 # Basic_Image_Editor
 This is a utility software made using Python which allows the user to freely edit images in a GUI-based environment.
 This has several features like:
-->Crop
-->Brightness
-->Histogram
-->Color Pop
-->Mirror Image
-->Flip Image
-->Rotate
-->Draw
-->Effects :
-Black and White
-Sepia
-Solarize
-Invert
-Posterize
+->Crop<br>
+->Brightness<br>
+->Histogram<br>
+->Color Pop<br>
+->Mirror Image<br>
+->Flip Image<br>
+->Rotate<br>
+->Draw<br>
+->Effects :<br>
+*Black and White<br>
+*Sepia<br>
+*Solarize<br>
+*Invert<br>
+*Posterize<br>
 	
  
 Libraries Used: 
